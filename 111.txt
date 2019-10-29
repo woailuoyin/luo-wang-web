@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=ytl-8">
+<title>my web</title>
+<link href="../1/123css.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	h1{
+		color:rgba(5,140,0,1.00);
+		text-align: center;
+		padding: 20px;
+	}
+	#img1{
+		float: left;
+		border: 2px rgba(255,255,255,1.00) solid;
+		margin: 4px;
+	}
+	#p1{
+		font-size: 15px;
+		text-indent: 2em;
+		line-height: 1.5;
+		padding: 5px;
+	}
+</style>
+</head>
+<body>
+<header>
+    <ul>
+		<li class="logo">TiH</li>
+		<li class="banner">Trash in Home</li>
+	</ul>
+    <nav>
+      <ul>
+        <li><a href="web.html">首页</a></li>
+		 <li><a href="web.html">游戏介绍</a></li>
+		 <li><a href="222.html">游戏截图</a></li>
+      </ul>
+    </nav>
+  </header>
+<img width="100%" flaot="center" src="../图片素材/`1.png" alt="分割线"/>
+	<h1>欢迎进入垃圾分类小游戏——垃圾去哪儿</h1>
+	<img id="img1" width="240px"  src="../图片素材/小垃圾桶.png"/>
+	<h2>游戏介绍</h2>
+	<p id="p1">这是一款以普及垃圾分类知识为目的的微信小游戏，画风清新可爱，操作简单。<br>
+	游戏开始时玩家拥有一定的体力值，玩家通过将传送带上的各种生活中出现的垃圾滑到相应的垃圾桶里来获取分数，将垃圾放置对应的垃圾桶则会获得分数并且不会扣体力值，滑错则会扣除体力值，若有垃圾未进行分类，则会根据垃圾种类扣除不同的体力值，体力值降为0则游戏结束。垃圾的种类有很多，不同的垃圾分类正确有不同的分值，此外传送带的速度也会随着时间而变快。<br>
+	游戏还有升级功能，当分类正确一定数量的垃圾后就会升级，每次升级体力值都会增加。此外我们还设置了一个收集成就功能，当分类正确了一定数量的某一类型的垃圾时会获得成就和道具。</p>
+	<img float="center" src="../图片素材/微信图片_20191029100939.png">
+</body>
+</html>
